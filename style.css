@@ -27,7 +27,7 @@ header h1 {
 .hero {
   height: 90vh;
   background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),
-  url('images/hero.jpg') center/cover;
+  url('https://images.unsplash.com/photo-1585747860715-2ba37e788b70') center/cover;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -256,6 +256,7 @@ nav a {
   transform: scale(1.05);
 
 }
+
 
 
 
