@@ -27,7 +27,7 @@ header h1 {
 .hero {
   height: 90vh;
   background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),
-  url('images/hero.jpg') center/cover;
+  url('hero.jpg') center/cover;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -254,4 +254,5 @@ nav a {
 
 .galeria-grid img:hover {
   transform: scale(1.05);
+
 }
